@@ -1,2 +1,2 @@
 # Notes-App
-This is app which is useful for edit ,create,modify,delete the notes 
+This application is designed to provide users with a range of useful features for editing, creating, modifying, and deleting notes.
